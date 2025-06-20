@@ -38,7 +38,7 @@
 
 💾 Data: scalable storage and ultra-fast access to mission-critical information:
 <p></p>
-<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,redis"/>
 <p></p>
 
 ⚙️ Infrastructure: fault-tolerant, easily scalable, and efficient application delivery and operation systems:
