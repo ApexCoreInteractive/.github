@@ -13,38 +13,38 @@
 <h1></h1> 
 
 <div align="center">
-  <p>👉 We build the foundation of our projects on a powerful and unified stack 👈</p>
+  <h3>👉 We build the foundation of our projects on a powerful and unified stack 👈</h3>
 </div>
 
-<div align="center">
-  <p>🚀 Operating system: our products are launched and run on various modern platforms 🚀</p>
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux,androidstudio"/>
-</div>
+🚀 Operating system: our products are launched and run on various modern platforms:
+<p></p>
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,androidstudio"/>
+<p></p>
 
-<div align="center">
-  <p>💻 Desktop: powerful, productive games and applications with deep integration into systems 💻</p>
-  <img src="https://skillicons.dev/icons?i=cs,net,electron,react,ts"/>
-</div>
+💻 Desktop: powerful, productive games and applications with deep integration into systems:
+<p></p>
+<img src="https://skillicons.dev/icons?i=cs,net,electron,react,ts"/>
+<p></p>
 
-<div align="center">
-  <p>📱 Mobile: cross-platform development without compromise on quality and user experience 📱</p>
-  <img src="https://skillicons.dev/icons?i=cs,net,react,ts"/>
-</div>
+📱 Mobile: cross-platform development without compromise on quality and user experience:
+<p></p>
+<img src="https://skillicons.dev/icons?i=cs,net,react,ts"/>
+<p></p>
 
-<div align="center">
-  <p>🌐 Web: lightning-fast, responsive interfaces and reliable backend services 🌐</p>
-  <img src="https://skillicons.dev/icons?i=cs,net,html,css,sass,tailwind,react,vite,js,ts"/>
-</div>
+🌐 Web: lightning-fast, responsive interfaces and reliable backend services:
+<p></p>
+<img src="https://skillicons.dev/icons?i=cs,net,html,css,sass,tailwind,react,vite,js,ts"/>
+<p></p>
 
-<div align="center">
-  <p>💾 Data: scalable storage and ultra-fast access to mission-critical information 💾</p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis"/>
-</div>
+💾 Data: scalable storage and ultra-fast access to mission-critical information:
+<p></p>
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+<p></p>
 
-<div align="center">
-  <p>⚙️ Infrastructure: fault-tolerant, easily scalable, and efficient application delivery and operation systems ⚙️</p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx"/>
-</div>
+⚙️ Infrastructure: fault-tolerant, easily scalable, and efficient application delivery and operation systems:
+<p></p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx"/>
+<p></p>
 
 [comment]: <> (Статистика популярности)
 <h1></h1> 
