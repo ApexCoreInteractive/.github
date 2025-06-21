@@ -1,3 +1,4 @@
+[comment]: <> (Начало информационной страницы)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=32&pause=1000&color=F76060&center=true&vCenter=true&width=435&lines=Apex+Core+Interactive;Web+Application+Development;Computer+application+development;Mobile+application+development" alt="Typing SVG" 
